@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "c22d167f-9c4e-eab9-61ae-285c82c1680d",
+    "Name": "UpdateSchemaPrefix",
+    "DBEngineType": 2,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1770711899000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

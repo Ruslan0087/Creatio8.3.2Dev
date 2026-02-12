@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "33388e85-ae5f-42b1-8dd0-7c065a096ebb",
+    "Name": "MainShell",
+    "ModifiedOnUtc": "\/Date(1770716976000)\/",
+    "Parent": {
+      "UId": "89f9e77f-2095-4a02-b212-66924f229dab",
+      "Name": "MainShell"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Main shell layout with vertical navigation"
+  }
+}

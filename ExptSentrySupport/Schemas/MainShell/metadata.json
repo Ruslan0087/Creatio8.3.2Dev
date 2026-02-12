@@ -1,0 +1,53 @@
+= MetaData.Schema.UId "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.A5 "2fe3868d-4892-460e-b088-e84200124906"
+= MetaData.Schema.B2.["69720a97-3b24-9222-1a42-b5379eb6b36f"].A4 "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.B2.["69720a97-3b24-9222-1a42-b5379eb6b36f"].A5 "2fe3868d-4892-460e-b088-e84200124906"
+= MetaData.Schema.B2.["c0b72dfa-d92e-123b-f728-daec34f27777"].A4 "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.B2.["c0b72dfa-d92e-123b-f728-daec34f27777"].A5 "2fe3868d-4892-460e-b088-e84200124906"
+= MetaData.Schema.B2.["e4b7675b-491c-f97e-5dc6-d042c8081eea"].A4 "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.B2.["e4b7675b-491c-f97e-5dc6-d042c8081eea"].A5 "2fe3868d-4892-460e-b088-e84200124906"
+= MetaData.Schema.B2.["f292b128-b4fc-ec3a-84d6-bb30cfaf865f"].A4 "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.B2.["f292b128-b4fc-ec3a-84d6-bb30cfaf865f"].A5 "2fe3868d-4892-460e-b088-e84200124906"
+= MetaData.Schema.B2.["84507bc5-a4cb-cb6d-0548-5bf120a28179"].A4 "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.B2.["84507bc5-a4cb-cb6d-0548-5bf120a28179"].A5 "2fe3868d-4892-460e-b088-e84200124906"
+= MetaData.Schema.B2.["238f759d-8c61-f043-2ac8-af3cdd173d85"].A4 "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.B2.["238f759d-8c61-f043-2ac8-af3cdd173d85"].A5 "2fe3868d-4892-460e-b088-e84200124906"
+= MetaData.Schema.B2.["c8f19d17-cbd5-717a-653a-a2e54abf6325"].A4 "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.B2.["c8f19d17-cbd5-717a-653a-a2e54abf6325"].A5 "2fe3868d-4892-460e-b088-e84200124906"
+= MetaData.Schema.B2.["0feb1d09-aaf9-878d-ccc3-3126121e5192"].A4 "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.B2.["0feb1d09-aaf9-878d-ccc3-3126121e5192"].A5 "2fe3868d-4892-460e-b088-e84200124906"
+= MetaData.Schema.B2.["bbac6f3d-88c9-a500-f28f-aa8f028b88ae"].A4 "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.B2.["bbac6f3d-88c9-a500-f28f-aa8f028b88ae"].A5 "2fe3868d-4892-460e-b088-e84200124906"
+= MetaData.Schema.B2.["15f8d23c-7251-e0f3-8c84-9f131b9a18cc"].A4 "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.B2.["15f8d23c-7251-e0f3-8c84-9f131b9a18cc"].A5 "2fe3868d-4892-460e-b088-e84200124906"
+= MetaData.Schema.B2.["ac4fee7a-6066-b073-d5df-9c2bccee4938"].A4 "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.B2.["ac4fee7a-6066-b073-d5df-9c2bccee4938"].A5 "2fe3868d-4892-460e-b088-e84200124906"
+= MetaData.Schema.B2.["735e77ad-1e89-752f-d71f-99d2b037d0a7"].A4 "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.B2.["735e77ad-1e89-752f-d71f-99d2b037d0a7"].A5 "2fe3868d-4892-460e-b088-e84200124906"
+= MetaData.Schema.B2.["443a29a8-2c0d-f433-c74d-c5a8a5aa8155"].A4 "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.B2.["443a29a8-2c0d-f433-c74d-c5a8a5aa8155"].A5 "2fe3868d-4892-460e-b088-e84200124906"
+= MetaData.Schema.B2.["8f9b42ab-f42f-5abc-bee4-fd5bd47a6c37"].A4 "33388e85-ae5f-42b1-8dd0-7c065a096ebb"
+= MetaData.Schema.B2.["8f9b42ab-f42f-5abc-bee4-fd5bd47a6c37"].A5 "2fe3868d-4892-460e-b088-e84200124906"
+~ MetaData.Schema.B2 [
+  "69720a97-3b24-9222-1a42-b5379eb6b36f",
+  "c0b72dfa-d92e-123b-f728-daec34f27777",
+  "e4b7675b-491c-f97e-5dc6-d042c8081eea",
+  "f292b128-b4fc-ec3a-84d6-bb30cfaf865f",
+  "84507bc5-a4cb-cb6d-0548-5bf120a28179",
+  "238f759d-8c61-f043-2ac8-af3cdd173d85",
+  "c8f19d17-cbd5-717a-653a-a2e54abf6325",
+  "0feb1d09-aaf9-878d-ccc3-3126121e5192",
+  "bbac6f3d-88c9-a500-f28f-aa8f028b88ae",
+  "15f8d23c-7251-e0f3-8c84-9f131b9a18cc",
+  "ac4fee7a-6066-b073-d5df-9c2bccee4938",
+  "735e77ad-1e89-752f-d71f-99d2b037d0a7",
+  "443a29a8-2c0d-f433-c74d-c5a8a5aa8155",
+  "8f9b42ab-f42f-5abc-bee4-fd5bd47a6c37"
+]
+= MetaData.Schema.B6 "c1687531-785d-f8b9-1efb-9458a6394eca"
+= MetaData.Schema.B7 true
+= MetaData.Schema.B8 "8.3.2.4199"
+= MetaData.Schema.HD1 "89f9e77f-2095-4a02-b212-66924f229dab"
+= MetaData.Schema.HD6 "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.ANGULAR_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},parameters:{{}},schemaVersion:0,optionalProperties:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});"
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 true

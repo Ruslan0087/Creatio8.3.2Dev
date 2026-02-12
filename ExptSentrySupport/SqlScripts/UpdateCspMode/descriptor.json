@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "620c4814-d4e0-7c69-7d0d-ab89315af8ef",
+    "Name": "UpdateCspMode",
+    "DBEngineType": 2,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1770719257000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
